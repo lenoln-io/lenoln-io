@@ -36,10 +36,10 @@ A tech-savvy developer who is resuming their journey in the development field.
 <br/>
 
 <div align="center">
-  <a href="mailto:lenoln.muniz.dev@gmail.com">
+  <a href="mailto:lenoln.muniz.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-080c14?style=for-the-badge&logo=gmail&logoColor=00d4ff" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/lenoln-io/">
+  <a href="https://www.linkedin.com/in/lenoln-io/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-080c14?style=for-the-badge&logo=linkedin&logoColor=a78bfa" alt="LinkedIn"/>
   </a>
 </div>
